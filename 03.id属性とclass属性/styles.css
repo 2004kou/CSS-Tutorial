@@ -1,3 +1,35 @@
 /* 6つのp要素に適用するスタイルを宣言 */
-
+.back-blue{
+    background-color: blue;
+}
+.wte{
+    color: white;
+}
 /* 6つのli要素に適用するスタイルを宣言 */
+.yel {
+    color: yellow;
+}
+.back-gre{
+    background-color: gray;
+}
+.blue{
+    color: blue;
+}
+.red {
+    color: red;
+}
+.back-green{
+    background-color: green;
+}
+.green {
+    color: green;
+}
+.back-brow{
+    background-color: brown;
+}
+.fos16 {
+    font-size: 16px;
+}
+.fos12 {
+    font-size: 12px;
+}
